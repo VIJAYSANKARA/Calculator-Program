@@ -1,5 +1,6 @@
 #Calculator-Program
-🧮 Calculator using HTML, CSS & JavaScript
+
+Calculator using HTML, CSS & JavaScript
 This is a responsive web-based Calculator built using core web technologies: HTML for structure, CSS for styling, and JavaScript for functionality. It supports basic arithmetic operations and is styled with a clean, modern UI.
 
 🔧 Key Features and Functionality:
